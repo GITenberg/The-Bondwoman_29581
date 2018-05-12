@@ -1,0 +1,28 @@
+_repo: The-Bondwoman_29581
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Ryan, Marah Ellis
+    birthdate: 1866
+    deathdate: 1934
+    gutenberg_agent_id: '32709'
+    url: http://www.gutenberg.org/2009/agents/32709
+description: ''
+gutenberg_issued: '2009-08-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '29581'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Man-woman relationships -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Race relations -- Fiction'
+- !lcsh 'United States -- History -- Civil War, 1861-1865 -- Fiction'
+title: The Bondwoman
+url: http://www.gutenberg.org/ebooks/29581
